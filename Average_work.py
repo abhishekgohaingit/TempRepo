@@ -6,5 +6,5 @@ df.head()
 
 df.describe()
 
-# Let's see what the average value is
-df['value'].mean()
+# Let's see what the min value is
+df['value'].min()
